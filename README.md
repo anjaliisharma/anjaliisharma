@@ -1,12 +1,27 @@
-- Hi, I’m @anjaliisharma
-- I have done information science and engineering from NMIT, Bangalore.
-- I have won the annual project exhibition of my department two times in a row, including for my final year project.
-- I am currently working as a Graduate Trainee for the role of java developer in IG infotech, Bangalore.
-- I’m interested in new technologies and their development.
-- I’m currently learning the spring framework.
-- You can reach me at www.linkedin.com/in/anjali-sharma-25b230180
+# Hi, I’m Anjali 👋
 
-<!---
-anjaliisharma/anjaliisharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Java Backend Developer | 4 years of experience | Spring Boot & Microservices
+
+I build reliable backend services and REST APIs using Java and Spring Boot. My focus is on clean service design, scalable microservice architecture, database performance, and production-ready engineering practices.
+
+## What I work with
+
+- **Backend:** Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate
+- **Architecture:** Microservices, REST APIs, asynchronous/event-driven workflows
+- **Data:** SQL, MySQL, Redis
+- **Quality:** JUnit, Mockito, integration testing, API documentation
+- **DevOps:** Docker, CI/CD, Git, Maven/Gradle
+- **Observability:** Logging, metrics, health checks, Spring Boot Actuator
+
+## Featured work
+
+
+
+## What I’m currently exploring
+
+Distributed systems patterns, resilient APIs, cloud-native deployments, and observability for Spring Boot services.
+
+## Connect
+
+- LinkedIn: [your LinkedIn](https://www.linkedin.com/in/sharma-anjali-profile/)
+- Email: anjalisharma11200@gmail.com
