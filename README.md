@@ -23,5 +23,5 @@ Distributed systems patterns, resilient APIs, cloud-native deployments, and obse
 
 ## Connect
 
-- LinkedIn: [your LinkedIn](https://www.linkedin.com/in/sharma-anjali-profile/)
+- LinkedIn: [Anjali Sharma](https://www.linkedin.com/in/sharma-anjali-profile/)
 - Email: anjalisharma11200@gmail.com
